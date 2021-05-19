@@ -60,3 +60,7 @@ RaspberryPiとカメラを使ってガンシューティングゲームコント
 ## デバッグ動画
 覗き込んだところにちゃんと弾が出ている．
 https://www.youtube.com/watch?v=lUyStWEtsS0
+
+## 関連URL
+サークルのHP。きれいな写真が載ってる
+https://imedia-lab.net/iml-projects/gun-project/
