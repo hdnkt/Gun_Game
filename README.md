@@ -62,5 +62,5 @@ RaspberryPiとカメラを使ってガンシューティングゲームコント
 https://www.youtube.com/watch?v=lUyStWEtsS0
 
 ## 関連URL
-サークルのHP。僕がプロジェクトを引き継ぐ前の代のきれいな写真が載ってるのでイメージだけ参考に
+サークルのHP。僕がプロジェクトを引き継ぐ前の代のきれいな写真が載ってるのでイメージだけ参考に．ここに載ってる学術発表などには関わっていません．
 https://imedia-lab.net/iml-projects/gun-project/
